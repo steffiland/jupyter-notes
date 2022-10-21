@@ -1,7 +1,6 @@
 pandas
 seaborn
 matplotlib
-logging
 jupyterlab-git
 rise
 jupyter_contrib_nbextensions

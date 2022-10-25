@@ -1,0 +1,11 @@
+name: jupyterenv
+channels:
+  - conda-forge
+dependencies:
+  - pip:
+      - robotkernel
+  - jupyter
+  - rise
+  - jupyterthemes
+  - jupyter_contrib_nbextensions
+  - jupyterlab-git
